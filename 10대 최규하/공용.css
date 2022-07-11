@@ -1,0 +1,34 @@
+.where{
+    text-align: center;
+}
+
+.color{
+    color: black;
+}
+
+.font{
+    font-size: 19px;
+}
+
+.font2{
+    font-size: 15px;
+}
+
+.font3{
+    font-size: 17px;
+}
+
+
+.table {
+   margin: auto;
+    width: 900px;
+    height: 1000px;
+};
+
+.color2{
+    text-decoration-color: blue;
+}
+
+.text{
+    text-decoration: none; color: darkblue;
+}
